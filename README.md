@@ -17,7 +17,7 @@ A fun, lightweight puzzle game where you line up **4 of the same sweets** horizo
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/sweetmatchjs.github.io
+   git clone https://github.com/sweetmatchjs/sweetmatchjs.github.io
    ```
 2. Navigate to the project folder:
 
