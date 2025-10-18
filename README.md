@@ -28,9 +28,9 @@ A fun, lightweight puzzle game where you line up **4 of the same sweets** horizo
 
 That’s it! No server or build tools required.
 
-### Online Demo
+## 🌐 Play Online
 
-You can also host it easily on GitHub Pages, Netlify, or any static hosting provider.
+You can play the latest version live here: **[sweetmatchjs.github.io](https://sweetmatchjs.github.io)**
 
 ## 📂 Project Structure
 
